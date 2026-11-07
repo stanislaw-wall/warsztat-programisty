@@ -1,1 +1,2 @@
 Lab02 - nauka Git i Bash
+Skrypt tworzy katalog archiwum i plik status.txt.
