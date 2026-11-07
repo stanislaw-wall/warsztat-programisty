@@ -2,3 +2,4 @@ Lab02 - nauka Git i Bash
 Skrypt tworzy katalog archiwum i plik status.txt.
 Zmiana wykonana lokalnie.
 Kolejna zmiana lokalna
+Test odrzucenia wyslania
